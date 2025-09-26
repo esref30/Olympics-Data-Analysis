@@ -45,3 +45,13 @@ Bu proje, Olimpiyatlar veri seti üzerinde gerçekleştirilen detaylı veri anal
 - Sporcuların yaş, boy ve kilo dağılımları branş ve cinsiyete göre farklılık göstermektedir  
 - Madalya kazanma olasılıkları branşa göre çeşitlilik göstermektedir  
 - Korelasyon analizi, bazı branşlarda boy ve kilonun madalya kazanma ile pozitif ilişkili olduğunu göstermektedir  
+
+<img width="778" height="544" alt="Ekran Resmi 2025-09-26 19 58 49" src="https://github.com/user-attachments/assets/c6f2f981-6246-4d1f-88f1-e0e90f115391" />
+
+
+##
+
+
+
+
+<img width="1113" height="712" alt="Ekran Resmi 2025-09-26 19 59 16" src="https://github.com/user-attachments/assets/9c5c2a68-6ce3-4c21-bfaa-5950d5e4bd54" />
